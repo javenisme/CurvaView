@@ -1,4 +1,5 @@
 CurvaView
 =========
 
-CurvaView will display a circle text  
+CurvaView use to display a circle text.
+
