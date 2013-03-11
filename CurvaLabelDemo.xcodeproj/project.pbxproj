@@ -21,7 +21,6 @@
 		8F13FA7516E73D9100A60718 /* CoreTextArcView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F13FA7416E73D9100A60718 /* CoreTextArcView.m */; };
 		8F13FA7716E73DAA00A60718 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F13FA7616E73DAA00A60718 /* QuartzCore.framework */; };
 		8F13FA7916E73DD300A60718 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F13FA7816E73DD300A60718 /* CoreText.framework */; };
-		8F13FA7B16E74AA200A60718 /* blue_circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F13FA7A16E74AA200A60718 /* blue_circle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +44,6 @@
 		8F13FA7416E73D9100A60718 /* CoreTextArcView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreTextArcView.m; sourceTree = "<group>"; };
 		8F13FA7616E73DAA00A60718 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8F13FA7816E73DD300A60718 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
-		8F13FA7A16E74AA200A60718 /* blue_circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue_circle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +109,6 @@
 		8F13FA5716E73D7100A60718 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				8F13FA7A16E74AA200A60718 /* blue_circle.png */,
 				8F13FA5816E73D7100A60718 /* CurvaLabelDemo-Info.plist */,
 				8F13FA5916E73D7100A60718 /* InfoPlist.strings */,
 				8F13FA5C16E73D7100A60718 /* main.m */,
@@ -179,7 +176,6 @@
 				8F13FA6516E73D7200A60718 /* Default@2x.png in Resources */,
 				8F13FA6716E73D7200A60718 /* Default-568h@2x.png in Resources */,
 				8F13FA6A16E73D7200A60718 /* MainStoryboard.storyboard in Resources */,
-				8F13FA7B16E74AA200A60718 /* blue_circle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,6 +304,7 @@
 				8F13FA7216E73D7200A60718 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
